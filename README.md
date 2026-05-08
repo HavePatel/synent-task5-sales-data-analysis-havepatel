@@ -1,3 +1,4 @@
+# Superstore Sales Analysis
 ## 📌 Problem Statement
 Retail businesses generate massive amounts of transactional data every day, but extracting meaningful insights from this data is a major challenge. The goal of this project is to analyze Superstore sales data to identify revenue-driving products, customer purchasing behavior, seasonal sales trends, and valuable customer segments.
 
