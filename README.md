@@ -88,11 +88,11 @@ Actionable recommendations derived from customer behavior and demand patterns.
 ## 📁 Project Structure
 ```text
 ├── data/
-│   └── superstore_dataset.csv
+│   └── train.csv
 ├── notebooks/
 │   └── Superstore_Sales.ipynb
 ├── reports/
-│   └── Superstore_Sales_Report.pdf
+│   └── Superstore Sales & Customer Segmentation Report
 ├── visuals/
 │   └── charts_and_graphs/
 └── README.md
